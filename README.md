@@ -8,3 +8,5 @@ Neural Network: Neural network contains a single hidden layer. Number of hidden 
 Percetron: Single input single output perceptron with an identity activation funtion
 
 Loss function: MSE
+
+Repo contains both a notebook and .py files
